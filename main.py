@@ -6,6 +6,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # The API key will be loaded from the .env file
+# add test line
 # No need to set it manually here since python-dotenv loads it automatically
 
 response = completion(
